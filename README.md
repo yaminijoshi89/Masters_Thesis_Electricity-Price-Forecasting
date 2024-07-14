@@ -24,7 +24,9 @@ Variables:
 - Calendar variables: Weekday, Weekend
 
 Data Source: ENTSO-E (open-source)
+
 Setup:
+
 1. Download and install the Python client for the ENTSO-E platform first.
    pip install entsoe-py
 2. Register on the ENTSO-E transparency platform (click login at the top right of the page): https://transparency.entsoe.eu/dashboard/show
