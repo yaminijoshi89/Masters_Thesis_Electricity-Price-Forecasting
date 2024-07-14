@@ -33,3 +33,7 @@ Setup:
 3. Request an API key by sending an email to transparency@entsoe.eu with “Restful API access” in the subject line. In the email body state your registered email address.
    You will receive an email when you have been provided with the API key. The key is then visible in your ENTSO-E account under “Web API Security Token”.
 
+   Since our study is focused on German market, it is important to note :
+   <img width="611" alt="image" src="https://github.com/user-attachments/assets/31fec171-3e0b-4275-b3e5-1af650a5c625">
+
+
