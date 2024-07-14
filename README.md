@@ -35,5 +35,6 @@ Setup:
 
    Since our study is focused on German market, it is important to note :
    <img width="611" alt="image" src="https://github.com/user-attachments/assets/31fec171-3e0b-4275-b3e5-1af650a5c625">
+   source: https://github.com/EnergieID/entsoe-py/blob/master/README.md
 
 
