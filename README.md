@@ -16,7 +16,8 @@ Variables:
 - Generation : Generation forecast for brown coal/lignite, gas, hard coal, biomass, oil, geothermal, hydro (pumped storage, run-of-river, and reservoir), Other, Other RES, waste, wind (offshore and onshore), and solar
 - Weather : Cloud cover, sunshine duration, wind speed, and humidity.
 
-Data Source: ENTSO-E (open-source)
+Data Source: 
+**ENTSO-E (open-source)**
 
 Setup:
 
@@ -31,4 +32,8 @@ Setup:
    
    [source: https://github.com/EnergieID/entsoe-py/blob/master/README.md]
 
-
+**DWD**
+Following github provide detail steps to get data via *wetterdienst* library.
+https://github.com/earthobservations/wetterdienst/blob/main/examples/notebooks/wetterdienst_notebook.ipynb
+!pip install wetterdienst
+!pip install dwdweather2
