@@ -17,6 +17,8 @@ Variables:
 - Weather : Cloud cover, sunshine duration, wind speed, and humidity.
 
 Data Source: 
+**The final merged and cleaned data is in /Datasets/Final_Modelling_data.csv**
+
 **ENTSO-E (open-source)**
 
 Setup:
